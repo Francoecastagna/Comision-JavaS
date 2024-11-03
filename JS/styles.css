@@ -10,3 +10,15 @@
     margin-left: 10%;
     
 }
+
+
+.productos {
+    border: solid 1px white;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+  }
+
+.img {
+    width: 50%;
+}

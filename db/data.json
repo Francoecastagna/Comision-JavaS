@@ -1,0 +1,39 @@
+[
+    {
+    "id": 1,
+    "nombre": "camiseta juego",
+    "imagen": "./imagenes/OIP.jpeg",
+    "precio": 3000
+ },
+ {
+    "id": 2,
+    "nombre": "short juego",
+    "imagen": "./imagenes/OIP (1).jpeg",
+    "precio": 2000
+ },
+{
+    "id": 3,
+    "nombre": "remera salida",
+    "imagen": "./imagenes/OIP (2).jpeg",
+    "precio": 2500
+},
+{
+    "id": 4,
+    "nombre": "panatalon largo",
+    "imagen": "./imagenes/OIP (3).jpeg",
+    "precio": 4000
+},
+{
+    "id": 5,
+    "nombre": "buzo",
+    "imagen": "./imagenes/OIP (4).jpeg",
+    "precio": 4000
+},
+{
+    "id": 6,
+    "nombre": "campera",
+    "imagen": "./imagenes/OIP (5).jpeg",
+    "precio": 3500
+}
+
+]
