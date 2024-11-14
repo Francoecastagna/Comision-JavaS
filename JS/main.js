@@ -47,7 +47,7 @@ function addToCartButton () {
 }
 
 async function getProducts() {
-    fetch("./db/data.json")
+    fetch("../db/data.json")
     .then(response => {
         if (!response.ok) {
             throw new Error('No se pudieron obtener los productos');
